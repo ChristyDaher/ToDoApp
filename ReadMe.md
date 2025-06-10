@@ -1,12 +1,13 @@
 Project Setup Guide
 
 Overview
+
 This guide provides the minimal steps required to set up the necessary components for this project: a PostgreSQL database using Docker and access to the API documentation via Swagger UI.
 
 Prerequisites
-Please ensure you have Docker installed on your system.
 
-Docker: Installation Guide for Docker
+Please ensure you have Docker installed on your system.
+Docker: Installation for Docker: https://www.docker.com/products/docker-desktop/ 
 
 Getting Started
 1. Start the PostgreSQL Database
